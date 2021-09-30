@@ -1,6 +1,6 @@
 # Humane On-Call Strategies
 
-References and other stuff associated with my Humane On-Call Strategies talk
+References for the Humane On-Call Strategies talk
 
 ## other talks
 
@@ -10,7 +10,7 @@ References and other stuff associated with my Humane On-Call Strategies talk
 
 I was reminded of Daniel Terhorst-North's advice to design software that fits in your head when watching this talk. The Team Topologies book is good, too.
 
-## blame-aware work
+## links
 
 - "Blameless" postmortems don't work. Here's what does.
   - J. Paul Reed
@@ -24,6 +24,12 @@ J. Paul Reed is a wonderful human who's done amazing work in this space, and if 
   
 Why PD is still using "postmortem" in 2021 I can barely fathom, I never really liked that language. SEO makes us do weird things I guess. Put it in an invisible footer or something, y'all.
 
+- The On-Call Handbook
+  - Alice Goldfuss
+  - https://github.com/alicegoldfuss/oncall-handbook
+
+Alice and contributors have put together a great set of tips and tricks for getting through on-call work. Read it! Contribute!
+
 ## books
 
 - Accelerate
@@ -31,6 +37,12 @@ Why PD is still using "postmortem" in 2021 I can barely fathom, I never really l
   - https://itrevolution.com/accelerate-book/
 
 TODO: blurb
+
+- Modern System Administration
+  - Jennifer Davis, 
+  - https://www.oreilly.com/library/view/modern-system-administration/9781492055204/
+
+It might not be fair that I'm adding this when it hasn't been finished yet and I haven't read what's up on O'Reilly preview, but I am certain that I recommend it and that there will be relevant and useful information in there.
 
 - Team Topologies
   - Matthew Skelton, Manuel Pais
