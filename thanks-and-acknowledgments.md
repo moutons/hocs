@@ -4,16 +4,16 @@
 
 In alphabetical order and with no explanation, I would like to thank the following people for their feedback or input (sometimes unwitting) when putting this talk together. Any faults are my own, any praise is largely due to them.
 
-JJ Asghar
-Mallory Bowes-Brown
-Travis Campbell
-Jennifer Davis
-Scott Hain
-Boyd Hemphill
-Karl Katzke
-Chris Lavery
-Laura Santamaria
-Mandi Walls
+* JJ Asghar
+* Mallory Bowes-Brown
+* Travis Campbell
+* Jennifer Davis
+* Scott Hain
+* Boyd Hemphill
+* Karl Katzke
+* Chris Lavery
+* Laura Santamaria
+* Mandi Walls
 
 ## acknowledgments
 
@@ -21,22 +21,22 @@ In last name alphabetical order, I would like to thank the following people for 
 
 TODO: add Incident Response folks I've forgotten at the moment
 
-John Allspaw
-Kevin Behr
-Silvia Botros
-Ryn Daniels
-Laurie Denness
-Julia Evans
-Liz Fong-Jones
-Jason Hand
-Sean Horn
-Karl Katzke
-Gene Kim
-Tom Limoncelli
-Charity Majors
-Dave Mangot
-Christa Meck
-J. Paul Reed
-Baron Schwartz
-George Spafford
-Cindy Sridharan
+* John Allspaw
+* Kevin Behr
+* Silvia Botros
+* Ryn Daniels
+* Laurie Denness
+* Julia Evans
+* Liz Fong-Jones
+* Jason Hand
+* Sean Horn
+* Karl Katzke
+* Gene Kim
+* Tom Limoncelli
+* Charity Majors
+* Dave Mangot
+* Christa Meck
+* J. Paul Reed
+* Baron Schwartz
+* George Spafford
+* Cindy Sridharan
