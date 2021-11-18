@@ -2,13 +2,15 @@
 
 References for the Humane On-Call Strategies talk
 
+[see this link for thanks and acknowledgments](thanks-and-acknowledgments.md)
+
 ## other talks
 
 - DOES19 London, Monoliths vs Microservices is Missing the Point - Start with Team Cognitive Load
   - Matthew Skelton and Manuel Pais
   - https://youtu.be/haejb5rzKsM
 
-I was reminded of Daniel Terhorst-North's advice to design software that fits in your head when watching this talk. The Team Topologies book is good, too.
+I was reminded of Daniel Terhorst-North's advice to design software that fits in your head when watching this talk, which led me to further realizations about the value of boring and simplicity in other domains. The Team Topologies book is good, too.
 
 ## links
 
@@ -24,11 +26,23 @@ J. Paul Reed is a wonderful human who's done amazing work in this space, and if 
   
 Why PD is still using "postmortem" in 2021 I can barely fathom, I never really liked that language. SEO makes us do weird things I guess. Put it in an invisible footer or something, y'all.
 
+- Crafting Sustainable On-Call Rotations
+  - Ryn Daniels
+  - https://increment.com/on-call/crafting-sustainable-on-call-rotations/
+
+Reviewing this for the first time in a while, I realize how much this article rang true with me. When I was writing about the disproportionate impact of this work on folks who hold less privilege, I'm only echoing what was written here years earlier.
+
 - The On-Call Handbook
   - Alice Goldfuss
   - https://github.com/alicegoldfuss/oncall-handbook
 
 Alice and contributors have put together a great set of tips and tricks for getting through on-call work. Read it! Contribute!
+
+- Reading Postmortems
+  - Dan Luu
+  - https://danluu.com/postmortem-lessons/
+
+I could credit more than this particular article, but when thinking about this talk I've come back to this article more than the rest. 
 
 ## books
 
@@ -36,7 +50,7 @@ Alice and contributors have put together a great set of tips and tricks for gett
   - Nicole Forsgren, PhD, Jez Humble, Gene Kim
   - https://itrevolution.com/accelerate-book/
 
-TODO: blurb
+Accelerate should be required reading for anyone building or operating technology services. The concepts discussed within are foundational to the practice of modern service delivery.
 
 - Modern System Administration
   - Jennifer Davis, 
@@ -56,4 +70,4 @@ TODO: blurb
   - Allie Brosh
   - http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html
 
-TODO: blurb
+You probably already know about Allie's work but it's always a good idea to check just in case you missed something because it's wonderful.
