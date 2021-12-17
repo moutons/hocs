@@ -2,8 +2,9 @@
 
 References for the Humane On-Call Strategies talk
 
-* [see this link](thanks-and-acknowledgments.md) for thanks and acknowledgments
-* [see this link](https://github.com/moutons/book-club) for a more general reading list I was compiling around the same time as writing this talk
+* some very important [thanks and acknowledgments](thanks-and-acknowledgments.md)
+* here's [a more general reading list](https://github.com/moutons/book-club) I was compiling around the same time as writing this talk
+* see this link for [the slides used for this talk](/humane-on-call-strategies.pdf)
 
 ## other talks
 
@@ -24,7 +25,7 @@ J. Paul Reed is a wonderful human who's done amazing work in this space, and if 
 - The Blameless Postmortem
   - PagerDuty Staff
   - https://postmortems.pagerduty.com/culture/blameless/
-  
+
 Why PD is still using "postmortem" in 2021 I can barely fathom, I never really liked that language. SEO makes us do weird things I guess. Put it in an invisible footer or something, y'all.
 
 - Crafting Sustainable On-Call Rotations
@@ -43,7 +44,7 @@ Alice and contributors have put together a great set of tips and tricks for gett
   - Dan Luu
   - https://danluu.com/postmortem-lessons/
 
-I could credit more than this particular article, but when thinking about this talk I've come back to this article more than the rest. 
+I could credit more than this particular article, but when thinking about this talk I've come back to this article more than the rest.
 
 ## books
 
@@ -54,7 +55,7 @@ I could credit more than this particular article, but when thinking about this t
 Accelerate should be required reading for anyone building or operating technology services. The concepts discussed within are foundational to the practice of modern service delivery.
 
 - Modern System Administration
-  - Jennifer Davis, 
+  - Jennifer Davis,
   - https://www.oreilly.com/library/view/modern-system-administration/9781492055204/
 
 It might not be fair that I'm adding this when it hasn't been finished yet and I haven't read what's up on O'Reilly preview, but I am certain that I recommend it and that there will be relevant and useful information in there.
