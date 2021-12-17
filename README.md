@@ -2,7 +2,8 @@
 
 References for the Humane On-Call Strategies talk
 
-[see this link for thanks and acknowledgments](thanks-and-acknowledgments.md)
+* [see this link](thanks-and-acknowledgments.md) for thanks and acknowledgments
+* [see this link](https://github.com/moutons/book-club) for a more general reading list I was compiling around the same time as writing this talk
 
 ## other talks
 
